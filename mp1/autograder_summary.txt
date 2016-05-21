@@ -1,0 +1,16 @@
+At Fri Feb 12 22:37:27 2016... 
+
+test results:
+
+ test_0 succeeded: wget small file from your server succeeded!
+
+ test_1 succeeded: your client downloading a medium size file from your server succeeded!
+
+ test_2(concurrency) succeeded!
+
+====================
+
+score: 100/100
+
+
+

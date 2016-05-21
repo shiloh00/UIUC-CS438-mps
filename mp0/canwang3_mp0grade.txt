@@ -1,0 +1,8 @@
+test results:
+
+ your mp0client's output is correct
+
+====================
+
+score: 100/100
+

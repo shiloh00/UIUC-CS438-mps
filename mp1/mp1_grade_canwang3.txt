@@ -1,0 +1,24 @@
+Wed Feb 24 20:14:56 2016:
+
+mp1 grade report for canwang3:
+
+ wget retrieving a small file from your server succeeded!
+
+ wget retrieving a big file from your server succeeded!
+
+ your client retrieving a small file from your server succeeded!
+
+ your client retrieving a big file from your server succeeded!
+
+ your client retrieving illinois.edu/index.html succeeded!
+
+-5:  your client failed to receive 404 content for non-existant file
+
+ concurrency succeeded!
+
+====================
+
+score: 95/100
+
+
+

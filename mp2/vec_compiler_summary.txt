@@ -1,0 +1,7 @@
+At Sun Apr  3 08:17:30 2016... 
+
+compilation of version 0 failed with:
+g++ -g -std=c++11 -pthread -o ls_router ls_main.cpp util.cpp
+gcc -o manager_send manager_send.c
+ 
+
